@@ -1,0 +1,57 @@
+h1{
+	font-size: 90pt;
+	margin-bottom: 0px;
+	font-family: "League Spartan", sans-serif;
+}
+h2{
+	font-size: 34pt;
+	font-family: "League Spartan", sans-serif;
+	text-align: left;
+}
+body{ 
+	background-color: #EFE1D0;
+}
+
+.home{ 
+	
+	background-image: url(vouge.jpg);
+	background-size: 105%;
+}
+ul li a{
+	text-decoration: none;
+	display: block;
+	width: 75px;
+	padding-top: 10px;
+	padding-bottom: 15px;
+	color: #000000;
+}
+ul{
+	list-style-type: none;
+	background-color: #FFFFFF;
+	overflow: hidden;
+}
+ul li{
+	float: left;
+	text-align: center;
+}
+.jewlery{
+	background-image: url(paandora.jpg);
+	background-size: 130%;
+}
+ul{
+	list-style-type: none;
+	background-color: #FFFFFF;
+	overflow: hidden;
+}
+.makeup{
+	background-image: url(maakeup.jpg);
+	background-size: 120%;
+}
+.clothing{
+background-image: url(victoria.jpg);
+	background-size: 80%
+}
+.nails{
+	background-image: url(polish.jpg);
+	background-size: 120%;
+}
